@@ -1,7 +1,9 @@
 # Quantum-chemistry-Problem-codes
 
 Q1.Write a Python function that takes four values a, b, c, d of the matrix and returns the inverse.
+
 Q2.Write a Python function to diagonalize a 2×2 matrix using basic linear algebra formulas.
+
 Q3. You are given the following data for the H₂ molecule (internuclear distance = 1.4 Bohr):
 1. Overlap Matrix 
 S = [[1.0000, 0.6593],

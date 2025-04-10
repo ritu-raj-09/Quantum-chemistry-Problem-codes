@@ -1,1 +1,0 @@
-# Quantum-chemistry-Problem-codes
